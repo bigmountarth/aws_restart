@@ -36,7 +36,7 @@ def clean_environment():
     os.system("sudo apt-get autoremove")
     os.system("sudo apt-get autoclean")
 
-def update_environment():
+def update_environment():git push
     os.system("sudo apt-get update")
     os.system("sudo apt-get upgrade")
     os.system("sudo apt-get dist-upgrade")
