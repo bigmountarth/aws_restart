@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5c96943c840b16870d5c01fe/6deeee66-214e-4a5d-899b-f77f2b73cafb/SCW+Newsletter-40.gif" />
+  <img src="SCW+Newsletter-40.gif" />
 </p>
 
 
