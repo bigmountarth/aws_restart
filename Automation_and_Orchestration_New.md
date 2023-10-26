@@ -6,9 +6,12 @@
 
 
 
-<p style="text-align: center;"><span style="color: #f2cf4a; font-family: Babas; font-size: 4em;">Automation and Orchestration </span>
+<p style="text-align: center;"><span style="color: #f2cf4a; font-family: Babas; font-size: 4em;">Automation Vs. Orchestration </span>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=575&lines=Exercise+1+:+Research+Automation/Orchestration)](https://git.io/typing-svg)
+
+###  <p align="center"> Automation and orchestration are two terms that are often used interchangeably because most modern automation tools include orchestration functionality. Therefore, these concepts are increasingly converging even though they represent different information technology concepts
+
 
  ### - Management<font color="red">  -  Automation  -  </font>Typically falls under automation as it involves tasks like system and resource management.
 
